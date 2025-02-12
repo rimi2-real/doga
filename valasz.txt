@@ -1,0 +1,6 @@
+Rimóczi András
+Parancsok: git init, git push, git pull, git add, git help, git commit
+Git ég Github közti külömbség: A githubon belül lehet megosztani repositorikat és kódolásokat a Giten pedig távolról irányítod a repositorikat
+Repository: tároló
+Milyen feladatra jó a github? Repositorik és kódolások megosztására
+Mi a stage? Egy ideiglenes várakozó állapot
